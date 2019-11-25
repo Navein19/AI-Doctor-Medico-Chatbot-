@@ -1,0 +1,5 @@
+HI guys welcome to this session of creating a chatbot that works as an personal doctor.
+
+Please follow the folllowing instructions to avoid ambiguity during the run of the application>>>>
+
+TO BE UPDATED!!!
